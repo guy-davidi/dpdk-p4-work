@@ -1,0 +1,10 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_kvargs.so.22]
+DPDK_22 A
+EXPERIMENTAL A
+rte_kvargs_count T 61
+rte_kvargs_free T 21
+rte_kvargs_get T 1b
+rte_kvargs_get_with_value T f9
+rte_kvargs_parse T 1ee
+rte_kvargs_parse_delim T 5f
+rte_kvargs_process T cd

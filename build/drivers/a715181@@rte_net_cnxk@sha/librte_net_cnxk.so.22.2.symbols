@@ -1,0 +1,7 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_net_cnxk.so.22]
+cnxk_nix_inb_mode_set T 73
+DPDK_22 A
+EXPERIMENTAL A
+INTERNAL A
+rte_pmd_cnxk_hw_sa_read T 78
+rte_pmd_cnxk_hw_sa_write T 47

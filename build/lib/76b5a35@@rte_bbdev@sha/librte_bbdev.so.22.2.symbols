@@ -1,0 +1,29 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_bbdev.so.22]
+DPDK_22 A
+rte_bbdev_allocate T 13a
+rte_bbdev_callback_register T ff
+rte_bbdev_callback_unregister T 164
+rte_bbdev_close T 111
+rte_bbdev_count T c
+rte_bbdev_devices B 4000
+rte_bbdev_find_next T 46
+rte_bbdev_get_named_dev T 7f
+rte_bbdev_info_get T bf
+rte_bbdev_intr_enable T 79
+rte_bbdev_is_valid T 22
+rte_bbdev_op_pool_create T c2
+rte_bbdev_op_type_str T 23
+rte_bbdev_pmd_callback_process T 13b
+rte_bbdev_queue_configure T 309
+rte_bbdev_queue_info_get T 2c
+rte_bbdev_queue_intr_ctl T b3
+rte_bbdev_queue_intr_disable T 71
+rte_bbdev_queue_intr_enable T 71
+rte_bbdev_queue_start T af
+rte_bbdev_queue_stop T af
+rte_bbdev_release T 71
+rte_bbdev_setup_queues T 1ec
+rte_bbdev_start T ac
+rte_bbdev_stats_get T 10a
+rte_bbdev_stats_reset T d7
+rte_bbdev_stop T 71

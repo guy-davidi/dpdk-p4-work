@@ -1,0 +1,3 @@
+EXPORTS
+	dpaa_sec_eventq_attach
+	dpaa_sec_eventq_detach

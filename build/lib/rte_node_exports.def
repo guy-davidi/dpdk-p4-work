@@ -1,0 +1,5 @@
+EXPORTS
+	rte_node_eth_config
+	rte_node_ip4_rewrite_add
+	rte_node_ip4_route_add
+	rte_node_logtype

@@ -1,0 +1,2 @@
+EXPORTS
+	rte_gso_segment

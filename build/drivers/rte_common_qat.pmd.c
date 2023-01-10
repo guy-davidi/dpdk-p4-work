@@ -1,0 +1,2 @@
+static __attribute__((unused)) const char *generator = "../buildtools/pmdinfogen.py";
+const char qat_pmd_info[] __attribute__((used)) = "PMD_INFO_STRING= {\"name\": \"qat\", \"kmod\": \"* igb_uio | uio_pci_generic | vfio-pci\", \"pci_ids\": [[32902, 1091, 65535, 65535], [32902, 14281, 65535, 65535], [32902, 6627, 65535, 65535], [32902, 28501, 65535, 65535], [32902, 6383, 65535, 65535], [32902, 6305, 65535, 65535], [32902, 18753, 65535, 65535], [32902, 18755, 65535, 65535]]}";

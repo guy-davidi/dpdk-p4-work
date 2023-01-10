@@ -1,0 +1,20 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_common_dpaax.so.22]
+dpaax_iova_table_depopulate T 4a
+dpaax_iova_table_dump T 182
+dpaax_iova_table_p B 8
+dpaax_iova_table_populate T 310
+dpaax_iova_table_update T 157
+INTERNAL A
+of_device_is_available T 68
+of_device_is_compatible T b9
+of_find_compatible_node T ff
+of_find_node_by_phandle T 63
+of_get_address T 14f
+of_get_mac_address T 48
+of_get_next_child T 85
+of_get_parent T 29
+of_get_property T 9a
+of_init_path T 87
+of_n_addr_cells T 8a
+of_translate_address T 186
+rta_sec_era B 4

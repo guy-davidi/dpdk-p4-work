@@ -1,0 +1,12 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_net_dpaa2.so.22]
+dpaa2_dev_tx_multi_txq_ordered T 508
+dpaa2_eth_eventq_attach T 2a9
+dpaa2_eth_eventq_detach T a5
+DPDK_22 A
+EXPERIMENTAL A
+INTERNAL A
+rte_pmd_dpaa2_get_tlu_hash T dcb
+rte_pmd_dpaa2_mux_flow_create T 3cc
+rte_pmd_dpaa2_mux_rx_frame_len T aa
+rte_pmd_dpaa2_set_custom_hash T 1a9
+rte_pmd_dpaa2_thread_init T 77

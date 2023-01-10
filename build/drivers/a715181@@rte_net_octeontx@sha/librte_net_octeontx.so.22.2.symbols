@@ -1,0 +1,3 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_net_octeontx.so.22]
+DPDK_22 A
+rte_octeontx_pchan_map B 20

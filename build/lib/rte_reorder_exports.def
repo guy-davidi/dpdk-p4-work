@@ -1,0 +1,9 @@
+EXPORTS
+	rte_reorder_create
+	rte_reorder_drain
+	rte_reorder_find_existing
+	rte_reorder_free
+	rte_reorder_init
+	rte_reorder_insert
+	rte_reorder_reset
+	rte_reorder_seqn_dynfield_offset

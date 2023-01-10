@@ -1,0 +1,42 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_mbuf.so.22]
+DPDK_22 A
+EXPERIMENTAL A
+rte_get_ptype_inner_l2_name T 41
+rte_get_ptype_inner_l3_name T 88
+rte_get_ptype_inner_l4_name T 88
+rte_get_ptype_l2_name T c0
+rte_get_ptype_l3_name T 78
+rte_get_ptype_l4_name T 97
+rte_get_ptype_name T 2be
+rte_get_ptype_tunnel_name T 118
+rte_get_rx_ol_flag_list T 10c
+rte_get_rx_ol_flag_name T 1c7
+rte_get_tx_ol_flag_list T 10c
+rte_get_tx_ol_flag_name T 2e6
+rte_mbuf_best_mempool_ops T 38
+rte_mbuf_check T 148
+rte_mbuf_dyn_dump T 22f
+rte_mbuf_dynfield_lookup T 102
+rte_mbuf_dynfield_register T 10
+rte_mbuf_dynfield_register_offset T 3da
+rte_mbuf_dynflag_lookup T e8
+rte_mbuf_dynflag_register T e
+rte_mbuf_dynflag_register_bitnum T 2bf
+rte_mbuf_dyn_rx_timestamp_register T b6
+rte_mbuf_dyn_tx_timestamp_register T b6
+rte_mbuf_platform_mempool_ops T 22
+rte_mbuf_sanity_check T 42
+rte_mbuf_set_platform_mempool_ops T c7
+rte_mbuf_set_user_mempool_ops T 87
+rte_mbuf_user_mempool_ops T 31
+rte_pktmbuf_clone T 4b8
+rte_pktmbuf_copy T 204d
+rte_pktmbuf_dump T 198
+rte_pktmbuf_free_bulk T 1859
+rte_pktmbuf_init T 9c
+__rte_pktmbuf_linearize T 22f9
+rte_pktmbuf_pool_create T 1b
+rte_pktmbuf_pool_create_by_ops T 116
+rte_pktmbuf_pool_create_extbuf T 261
+rte_pktmbuf_pool_init T 81
+__rte_pktmbuf_read T 1eb6

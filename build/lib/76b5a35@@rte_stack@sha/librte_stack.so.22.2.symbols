@@ -1,0 +1,5 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_stack.so.22]
+DPDK_22 A
+rte_stack_create T 1d8
+rte_stack_free T 8f
+rte_stack_lookup T 91

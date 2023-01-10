@@ -1,0 +1,36 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_table.so.22]
+DPDK_22 A
+EXPERIMENTAL A
+rte_swx_table_exact_match_ops D 38
+rte_swx_table_exact_match_unoptimized_ops D 38
+rte_swx_table_learner_add T 25e
+rte_swx_table_learner_create T 169
+rte_swx_table_learner_delete T 21
+rte_swx_table_learner_footprint_get T 59
+rte_swx_table_learner_free T 11
+rte_swx_table_learner_lookup T 4e0
+rte_swx_table_learner_mailbox_size_get T a
+rte_swx_table_learner_rearm T 24
+rte_swx_table_learner_rearm_new T 34
+rte_swx_table_learner_timeout_update T 5d
+rte_swx_table_selector_create T 2e8
+rte_swx_table_selector_footprint_get T 13
+rte_swx_table_selector_free T 39
+rte_swx_table_selector_group_set T 9
+rte_swx_table_selector_mailbox_size_get T 7
+rte_swx_table_selector_select T 1d9
+rte_swx_table_wildcard_match_ops D 38
+rte_table_acl_ops D 40
+rte_table_array_ops D 40
+rte_table_hash_cuckoo_ops D 40
+rte_table_hash_ext_ops D 40
+rte_table_hash_key16_ext_ops D 40
+rte_table_hash_key16_lru_ops D 40
+rte_table_hash_key32_ext_ops D 40
+rte_table_hash_key32_lru_ops D 40
+rte_table_hash_key8_ext_ops D 40
+rte_table_hash_key8_lru_ops D 40
+rte_table_hash_lru_ops D 40
+rte_table_lpm_ipv6_ops D 40
+rte_table_lpm_ops D 40
+rte_table_stub_ops D 40

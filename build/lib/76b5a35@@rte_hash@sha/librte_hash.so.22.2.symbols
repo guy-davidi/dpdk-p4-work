@@ -1,0 +1,43 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_hash.so.22]
+DPDK_22 A
+EXPERIMENTAL A
+rte_fbk_hash_create T 216
+rte_fbk_hash_find_existing T 6d
+rte_fbk_hash_free T 8e
+rte_hash_add_key T 2c
+rte_hash_add_key_data T 37
+rte_hash_add_key_with_hash T b
+rte_hash_add_key_with_hash_data T 1c
+rte_hash_count T 89
+rte_hash_create T 8ea
+rte_hash_del_key T 2a
+rte_hash_del_key_with_hash T 9
+rte_hash_find_existing T 6d
+rte_hash_free T 129
+rte_hash_free_key_with_position T 110
+rte_hash_get_key_with_position T 4e
+rte_hash_hash T 1f
+rte_hash_iterate T 32f
+rte_hash_lookup T 2c
+rte_hash_lookup_bulk T 34
+rte_hash_lookup_bulk_data T cc
+rte_hash_lookup_data T 2c
+rte_hash_lookup_with_hash T b
+rte_hash_lookup_with_hash_bulk T 47
+rte_hash_lookup_with_hash_bulk_data T d9
+rte_hash_lookup_with_hash_data T 9
+rte_hash_max_key_id T 16
+rte_hash_rcu_qsbr_add T 20c
+rte_hash_reset T 37e
+rte_hash_set_cmp_func T 16
+rte_thash_add_helper T 69f
+rte_thash_adjust_tuple T b49
+rte_thash_complete_matrix T de
+rte_thash_find_existing T 6d
+rte_thash_free_ctx T fe
+rte_thash_get_complement T 11
+rte_thash_get_gfni_matrices T 9
+rte_thash_get_helper T 66
+rte_thash_get_key T 9
+rte_thash_gfni_supported T 7
+rte_thash_init_ctx T 19b8

@@ -1,0 +1,7 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_common_cpt.so.22]
+cpt_fpm_clear T 4b
+cpt_fpm_init T d6
+cpt_pmd_ops_helper_asym_get_mlen T 17
+cpt_pmd_ops_helper_get_mlen_direct_mode T a
+cpt_pmd_ops_helper_get_mlen_sg_mode T a
+INTERNAL A

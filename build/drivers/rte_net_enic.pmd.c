@@ -1,0 +1,2 @@
+static __attribute__((unused)) const char *generator = "../buildtools/pmdinfogen.py";
+const char net_enic_pmd_info[] __attribute__((used)) = "PMD_INFO_STRING= {\"name\": \"net_enic\", \"params\": \"cq64=0|1disable-overlay=0|1 enable-avx2-rx=0|1 ig-vlan-rewrite=trunk|untag|priority|pass\", \"kmod\": \"* igb_uio | uio_pci_generic | vfio-pci\", \"pci_ids\": [[4407, 67, 65535, 65535], [4407, 113, 65535, 65535], [4407, 695, 65535, 65535]]}";

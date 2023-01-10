@@ -1,0 +1,3 @@
+EXPORTS
+	rte_eth_vhost_get_queue_event
+	rte_eth_vhost_get_vid_from_port_id

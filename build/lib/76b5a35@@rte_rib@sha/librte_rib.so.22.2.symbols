@@ -1,0 +1,30 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_rib.so.22]
+DPDK_22 A
+rte_rib6_create T 228
+rte_rib6_find_existing T 91
+rte_rib6_free T ec
+rte_rib6_get_depth T 44
+rte_rib6_get_ext T 15
+rte_rib6_get_ip T 4c
+rte_rib6_get_nh T 44
+rte_rib6_get_nxt T 8e6
+rte_rib6_insert T d7a
+rte_rib6_lookup T 34b
+rte_rib6_lookup_exact T 64f
+rte_rib6_lookup_parent T 2c
+rte_rib6_remove T 1bb
+rte_rib6_set_nh T 34
+rte_rib_create T 228
+rte_rib_find_existing T 6d
+rte_rib_free T cf
+rte_rib_get_depth T 44
+rte_rib_get_ext T 15
+rte_rib_get_ip T 44
+rte_rib_get_nh T 44
+rte_rib_get_nxt T 1b6
+rte_rib_insert T 37f
+rte_rib_lookup T a6
+rte_rib_lookup_exact T d2
+rte_rib_lookup_parent T 2c
+rte_rib_remove T 1bb
+rte_rib_set_nh T 34

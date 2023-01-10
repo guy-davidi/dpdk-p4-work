@@ -1,0 +1,3 @@
+static __attribute__((unused)) const char *generator = "../buildtools/pmdinfogen.py";
+const char net_bnx2x_pmd_info[] __attribute__((used)) = "PMD_INFO_STRING= {\"name\": \"net_bnx2x\", \"kmod\": \"* igb_uio | uio_pci_generic | vfio-pci\", \"pci_ids\": [[5348, 5770, 65535, 65535], [5348, 5711, 65535, 65535], [5348, 5774, 65535, 65535], [5348, 5693, 65535, 65535], [5348, 5773, 65535, 65535], [5348, 5793, 65535, 65535], [4215, 5793, 65535, 65535], [5348, 5794, 65535, 65535]]}";
+const char net_bnx2xvf_pmd_info[] __attribute__((used)) = "PMD_INFO_STRING= {\"name\": \"net_bnx2xvf\", \"kmod\": \"* igb_uio | vfio-pci\", \"pci_ids\": [[5348, 5801, 65535, 65535], [5348, 5807, 65535, 65535], [5348, 5695, 65535, 65535], [5348, 5805, 65535, 65535], [4215, 5805, 65535, 65535]]}";

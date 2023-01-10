@@ -1,0 +1,3 @@
+static __attribute__((unused)) const char *generator = "../buildtools/pmdinfogen.py";
+const char net_virtio_pmd_info[] __attribute__((used)) = "PMD_INFO_STRING= {\"name\": \"net_virtio\", \"kmod\": \"* igb_uio | uio_pci_generic | vfio-pci\", \"pci_ids\": [[6900, 4096, 65535, 65535], [6900, 4161, 65535, 65535]]}";
+const char net_virtio_user_pmd_info[] __attribute__((used)) = "PMD_INFO_STRING= {\"name\": \"net_virtio_user\", \"params\": \"path=<path> mac=<mac addr> cq=<int> queue_size=<int> queues=<int> iface=<string> server=<0|1> mrg_rxbuf=<0|1> in_order=<0|1> packed_vq=<0|1> speed=<int> vectorized=<0|1>\", \"pci_ids\": []}";

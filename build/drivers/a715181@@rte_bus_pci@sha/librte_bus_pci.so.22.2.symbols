@@ -1,0 +1,17 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_bus_pci.so.22]
+DPDK_22 A
+EXPERIMENTAL A
+rte_pci_dump T c8
+rte_pci_find_ext_capability T e5
+rte_pci_get_sysfs_path T 27
+rte_pci_ioport_map T 67
+rte_pci_ioport_read T 2d
+rte_pci_ioport_unmap T 52
+rte_pci_ioport_write T 2d
+rte_pci_map_device T 57
+rte_pci_read_config T bf
+rte_pci_register T 2c
+rte_pci_set_bus_master T b1
+rte_pci_unmap_device T 41
+rte_pci_unregister T 42
+rte_pci_write_config T bf

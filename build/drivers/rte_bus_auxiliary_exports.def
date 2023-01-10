@@ -1,0 +1,3 @@
+EXPORTS
+	rte_auxiliary_register
+	rte_auxiliary_unregister

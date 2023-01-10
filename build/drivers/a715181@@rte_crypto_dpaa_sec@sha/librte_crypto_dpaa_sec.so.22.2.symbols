@@ -1,0 +1,4 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_crypto_dpaa_sec.so.22]
+dpaa_sec_eventq_attach T 12e
+dpaa_sec_eventq_detach T d6
+INTERNAL A

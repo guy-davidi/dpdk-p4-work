@@ -1,0 +1,10 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_net.so.22]
+DPDK_22 A
+rte_ether_format_addr T 47
+rte_ether_unformat_addr T 229
+rte_eth_random_addr T 24
+rte_net_crc_calc T 10
+rte_net_crc_set_alg T c4
+rte_net_get_ptype T a1a
+rte_net_make_rarp_packet T 7e2
+rte_net_skip_ip6_ext T 34b

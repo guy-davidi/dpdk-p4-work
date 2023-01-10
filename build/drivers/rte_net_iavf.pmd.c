@@ -1,0 +1,2 @@
+static __attribute__((unused)) const char *generator = "../buildtools/pmdinfogen.py";
+const char net_iavf_pmd_info[] __attribute__((used)) = "PMD_INFO_STRING= {\"name\": \"net_iavf\", \"params\": \"cap=dcf\", \"kmod\": \"* igb_uio | vfio-pci\", \"pci_ids\": [[32902, 6281, 65535, 65535], [32902, 5452, 65535, 65535], [32902, 5489, 65535, 65535], [32902, 14285, 65535, 65535], [32902, 14157, 65535, 65535]]}";

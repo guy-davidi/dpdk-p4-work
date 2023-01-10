@@ -1,0 +1,31 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_graph.so.22]
+EXPERIMENTAL A
+rte_graph_cluster_stats_create T 1f15
+rte_graph_cluster_stats_destroy T 9
+rte_graph_cluster_stats_get T 13f
+rte_graph_cluster_stats_reset T 42
+rte_graph_create T 7c1
+rte_graph_destroy T 1cc
+rte_graph_dump T 70
+rte_graph_export T 168
+rte_graph_from_name T 5c
+rte_graph_id_to_name T 61
+rte_graph_list_dump T 72
+rte_graph_lookup T f1
+rte_graph_max_count T c
+rte_graph_node_get T 91
+rte_graph_node_get_by_name T a7
+rte_graph_obj_dump T 317
+rte_node_clone T 34e
+rte_node_dump T 61
+rte_node_edge_count T 64
+rte_node_edge_get T 241
+rte_node_edge_shrink T d1
+rte_node_edge_update T 252
+rte_node_from_name T 5c
+rte_node_id_to_name T 61
+rte_node_list_dump T 65
+rte_node_max_count T b
+__rte_node_register T 1a7
+__rte_node_stream_alloc T bf
+__rte_node_stream_alloc_size T bf

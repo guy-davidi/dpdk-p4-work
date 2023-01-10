@@ -1,0 +1,21 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_dmadev.so.22]
+EXPERIMENTAL A
+INTERNAL A
+rte_dma_close T 177
+rte_dma_configure T 184
+rte_dma_count_avail T 4f
+rte_dma_dev_max T 2e
+rte_dma_dump T 27b
+rte_dma_fp_objs B 8
+rte_dma_get_dev_id_by_name T f6
+rte_dma_info_get T 8e
+rte_dma_is_valid T 32
+rte_dma_next_dev T 4a
+rte_dma_pmd_allocate T 384
+rte_dma_pmd_release T 1d0
+rte_dma_start T c6
+rte_dma_stats_get T e7
+rte_dma_stats_reset T a1
+rte_dma_stop T 91
+rte_dma_vchan_setup T 2db
+rte_dma_vchan_status T a8

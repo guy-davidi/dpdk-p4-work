@@ -1,0 +1,15 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_kni.so.22]
+DPDK_22 A
+EXPERIMENTAL A
+rte_kni_alloc T 645
+rte_kni_close T 31
+rte_kni_get T 6d
+rte_kni_get_name T 8
+rte_kni_handle_request T 22a
+rte_kni_init T 4a
+rte_kni_register_handlers T 8b
+rte_kni_release T 2e2
+rte_kni_rx_burst T 91
+rte_kni_tx_burst T 19d
+rte_kni_unregister_handlers T 31
+rte_kni_update_link T 124

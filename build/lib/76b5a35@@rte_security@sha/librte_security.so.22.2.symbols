@@ -1,0 +1,15 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_security.so.22]
+DPDK_22 A
+EXPERIMENTAL A
+INTERNAL A
+rte_security_capabilities_get T 23
+rte_security_capability_get T bb
+rte_security_dynfield_offset D 4
+rte_security_dynfield_register T 22
+__rte_security_get_userdata T 61
+rte_security_session_create T 26c
+rte_security_session_destroy T 163
+rte_security_session_get_size T 23
+rte_security_session_stats_get T 34
+rte_security_session_update T 3c
+__rte_security_set_pkt_metadata T 1c

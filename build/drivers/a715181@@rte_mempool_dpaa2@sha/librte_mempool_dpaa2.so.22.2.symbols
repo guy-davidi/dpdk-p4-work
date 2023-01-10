@@ -1,0 +1,8 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_mempool_dpaa2.so.22]
+DPDK_22 A
+INTERNAL A
+rte_dpaa2_bpid_info B 8
+rte_dpaa2_bpid_info_init T a6
+rte_dpaa2_mbuf_alloc_bulk T 28a
+rte_dpaa2_mbuf_from_buf_addr T 25
+rte_dpaa2_mbuf_pool_bpid T 20

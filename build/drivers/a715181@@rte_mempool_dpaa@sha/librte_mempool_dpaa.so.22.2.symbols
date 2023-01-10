@@ -1,0 +1,4 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_mempool_dpaa.so.22]
+INTERNAL A
+rte_dpaa_bpid_info B 8
+rte_dpaa_memsegs D 10

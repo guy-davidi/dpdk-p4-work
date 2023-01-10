@@ -1,0 +1,17 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_metrics.so.22]
+DPDK_22 A
+EXPERIMENTAL A
+rte_metrics_deinit T 5e
+rte_metrics_get_names T a4
+rte_metrics_get_values T 105
+rte_metrics_init T 8e
+rte_metrics_reg_name T 43
+rte_metrics_reg_names T 168
+rte_metrics_tel_encode_json_format T a
+rte_metrics_tel_extract_data T a
+rte_metrics_tel_get_global_stats T a
+rte_metrics_tel_get_ports_stats_json T a
+rte_metrics_tel_get_port_stats_ids T a
+rte_metrics_tel_reg_all_ethdev T a
+rte_metrics_update_value T 24
+rte_metrics_update_values T 177

@@ -1,0 +1,2 @@
+EXPORTS
+	rte_fpga_lte_fec_configure

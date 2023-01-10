@@ -1,0 +1,3 @@
+EXPORTS
+	otx_crypto_adapter_dequeue
+	otx_crypto_adapter_enqueue

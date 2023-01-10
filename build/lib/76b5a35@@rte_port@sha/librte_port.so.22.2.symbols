@@ -1,0 +1,40 @@
+ 0x000000000000000e (SONAME)             Library soname: [librte_port.so.22]
+DPDK_22 A
+EXPERIMENTAL A
+rte_port_ethdev_reader_ops D 20
+rte_port_ethdev_writer_nodrop_ops D 30
+rte_port_ethdev_writer_ops D 30
+rte_port_eventdev_reader_ops D 20
+rte_port_eventdev_writer_nodrop_ops D 30
+rte_port_eventdev_writer_ops D 30
+rte_port_fd_reader_ops D 20
+rte_port_fd_writer_nodrop_ops D 30
+rte_port_fd_writer_ops D 30
+rte_port_kni_reader_ops D 20
+rte_port_kni_writer_nodrop_ops D 30
+rte_port_kni_writer_ops D 30
+rte_port_ring_multi_reader_ops D 20
+rte_port_ring_multi_writer_nodrop_ops D 30
+rte_port_ring_multi_writer_ops D 30
+rte_port_ring_reader_ipv4_frag_ops D 20
+rte_port_ring_reader_ipv6_frag_ops D 20
+rte_port_ring_reader_ops D 20
+rte_port_ring_writer_ipv4_ras_ops D 30
+rte_port_ring_writer_ipv6_ras_ops D 30
+rte_port_ring_writer_nodrop_ops D 30
+rte_port_ring_writer_ops D 30
+rte_port_sched_reader_ops D 20
+rte_port_sched_writer_ops D 30
+rte_port_sink_ops D 30
+rte_port_source_ops D 20
+rte_port_sym_crypto_reader_ops D 20
+rte_port_sym_crypto_writer_nodrop_ops D 30
+rte_port_sym_crypto_writer_ops D 30
+rte_swx_port_ethdev_reader_ops D 20
+rte_swx_port_ethdev_writer_ops D 38
+rte_swx_port_fd_reader_ops D 20
+rte_swx_port_fd_writer_ops D 38
+rte_swx_port_ring_reader_ops D 20
+rte_swx_port_ring_writer_ops D 38
+rte_swx_port_sink_ops D 38
+rte_swx_port_source_ops B 20
