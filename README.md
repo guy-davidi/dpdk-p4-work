@@ -14,15 +14,15 @@ telnet 0.0.0.0 8086
 
 # Install the 
 
-```cd /home/user/dpdk-22.07/examples/pipeline/examples
-/home/user/dpdk-22.07/examples/pipeline
+```cd /home/user/dpdk-p4-work/examples/pipeline/examples
+/home/user/dpdk-p4-work/examples/pipeline
 mkdir build
 make
 ```
 
 # Bind DPDK driver to device
 ```
-cd /home/user/dpdk-22.07/usertools
+cd /home/user/dpdk-p4-work/usertools
 sudo ./dpdk-devbind.py -b vfio-pci 0000:03:00.0
 sudo ./dpdk-devbind.py -b vfio-pci 0000:07:00.0
 ```
