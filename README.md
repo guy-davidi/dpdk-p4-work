@@ -1,6 +1,6 @@
-# Configure DPDK Pipeline by P4
+# DPDK Pipeline using P4
 In this repo we will present how to configure DPDK pipeline by a P4 program.
-# In order run l2fwd
+# In order run l2fwd (example)
 
 ```sudo su
 cd  /home/user/dpdk-p4-work/build/examples
@@ -12,7 +12,7 @@ sudo ./dpdk-pipeline -c 0x3 -- -s /home/user/dpdk-p4-work/examples/pipeline/exam
 telnet 0.0.0.0 8086
 ```
 
-# Install the 
+# Install
 
 ```cd /home/user/dpdk-p4-work/examples/pipeline/examples
 /home/user/dpdk-p4-work/examples/pipeline
