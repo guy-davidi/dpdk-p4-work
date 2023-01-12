@@ -10,6 +10,7 @@ sudo ./dpdk-pipeline -c 0x3 -- -s /home/user/dpdk-p4-work/examples/pipeline/exam
 # In order to connect DPDK app cli 
 ```
 telnet 0.0.0.0 8086
+pipeline PIPELINE0 stats
 ```
 
 # Install
