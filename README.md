@@ -10,6 +10,7 @@ sudo ./dpdk-pipeline -c 0x3 -- -s /home/user/dpdk-p4-work/examples/pipeline/exam
 # In order to connect DPDK app cli 
 ```
 telnet 0.0.0.0 8086
+pipeline PIPELINE0 stats
 ```
 
 # Install
@@ -35,3 +36,7 @@ cd /home/user/dpdk-p4-work/build/examples
 p4c-dpdk --arch psa my_l2fed.p4 -o my_l2fed.spec 
 ```
 
+# In order to install P4 compiller - p4c_install.sh
+```
+./p4c_install.sh
+```
