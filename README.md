@@ -36,3 +36,7 @@ cd /home/user/dpdk-p4-work/build/examples
 p4c-dpdk --arch psa my_l2fed.p4 -o my_l2fed.spec 
 ```
 
+# In order to install P4 compiller - p4c_install.sh
+```
+./p4c_install.sh
+```
